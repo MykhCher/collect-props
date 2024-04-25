@@ -11,10 +11,6 @@ label {
     margin: 10px;
 }
 
-div {
-    width: 400px;
-}
-
 input[type="submit"] {
     width: 150px;
     height: 35px;

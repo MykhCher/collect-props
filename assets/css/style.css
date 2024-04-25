@@ -20,3 +20,12 @@ input[type="submit"] {
     height: 35px;
     margin: 20px
 }
+
+.error-msg {
+    border: 2px solid red;
+    background-color: #fa8e8e;
+    padding: 8px;
+    font-size: 0.8rem;
+    color: #600c;
+    text-align: left;
+}
